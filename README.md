@@ -1,6 +1,6 @@
 # testframe
 
-BDD Automation framework using Selenium webdriver, python pytest and pytest-bdd
+BDD Automation framework using Selenium webdriver, python, pytest and pytest-bdd
 
 
 pip install pytest
